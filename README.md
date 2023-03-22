@@ -1,7 +1,7 @@
 # MR.2_Robot_Controller
 ## Description
 This program controls the MR.2 robot using an Arduino Mega microcontroller board. It uses various libraries such as Servo, Keypad, LiquidCrystal_I2C, and Wire to interact with the robot's hardware components, including the Two servos for each leg responsible for controlling the robot's movement.<br>
-Developed from [Arduino_Mega_Quadruped_Robot_Control](https://github.com/Thanyasit/Arduino_Mega_Quadruped_Robot_Control) <b>2020</b>
+Developed from [Arduino_Mega_Quadruped_Robot_Control](https://github.com/Thanyasit/Arduino_Mega_Quadruped_Robot_Control) But not used for competition <b>2020</b>
 
 ## Getting Started
 To run this program, you will need an Arduino Mega board and the following hardware components connected to it:
