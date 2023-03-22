@@ -50,3 +50,6 @@ To run this program, you will need an Arduino Mega board and the following hardw
 <img src="https://user-images.githubusercontent.com/77733903/226981397-d44aa1fb-7acd-44cc-9eb7-27ff660bf42a.jpg" width="500"><img src="https://user-images.githubusercontent.com/77733903/226981455-07a049ce-8b42-4fd1-a546-230e817c785a.jpg" width="500">
 </p>
 
+<h2>License</h2>
+
+This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
