@@ -40,3 +40,13 @@ To run this program, you will need an Arduino Mega board and the following hardw
 14. Command *: Setstandc>Squar Forward>Setstandc
 15. Command 0: Setstandc
 16. Command #: Setstandc>Squat BackwardSetstandc
+
+## Product
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226980883-d5ebbac4-17fa-4b94-add0-235b1950d22d.jpg" width="500">
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226981397-d44aa1fb-7acd-44cc-9eb7-27ff660bf42a.jpg" width="500"><img src="https://user-images.githubusercontent.com/77733903/226981455-07a049ce-8b42-4fd1-a546-230e817c785a.jpg" width="500">
+</p>
+
